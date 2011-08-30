@@ -1,2 +1,5 @@
 mplabx/the_stalker.X/build
 mplabx/the_stalker.X/*.err
+mplabx/the_stalker.X/dist
+mplabx/the_stalker.X/nbproject/Makefile-genesis.properties
+
