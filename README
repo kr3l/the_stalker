@@ -6,4 +6,5 @@ ruby/
 
 pinguino (old)/
 	Old Pinguino code that was loaded on PIC. New code is written in C with MPLAB X.
-
+fritzing/
+	Contains the drawing of the schematics. Open with Fritzing.
